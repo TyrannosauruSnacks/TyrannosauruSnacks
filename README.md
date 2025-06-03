@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 🏠👨‍💻 I'm currently working on
-- Bachelor Thesis about Camera Trapping for Wildlife Research and Management with focus on the Random Encounter Model
+- Bachelor Thesis - Reproduction of an estimated Red Deer Density in a german forest by Camera trapping and the Random Encounter Model
 ### 📚🧠 I'm currently learning
 - Tidyverse R-Package
 - Tidy Modeling with R
@@ -10,10 +10,9 @@
 - Obsidian
 - Distance Sampling Methods
 - Camera Trapping Methods
-- Wildilfe Managament
+- Wildilfe Management
 - Data Science
 ### 🤔💡 I'm looking for help with
-- Image Recognition tools
-- Machine Learning for Wildlife Research and Management
-- TidyModels Package for R
-- Modeling Wildlife Populations
+- Resampling methods
+- Practical camera trapping
+- Modeling wildlife populations with the tidyverse
