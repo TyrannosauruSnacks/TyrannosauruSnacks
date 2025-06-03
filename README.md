@@ -15,4 +15,4 @@
 ### 🤔💡 I'm looking for help with
 - Resampling methods
 - Practical camera trapping
-- Modeling wildlife populations with the tidyverse
+- Modeling wildlife populations with tidymodels
