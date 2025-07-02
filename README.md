@@ -3,7 +3,7 @@
 ### 🏠👨‍💻 I'm currently working on
 
 - Bachelor Thesis - Reproduction of an estimated Red Deer Density in a german forest by Camera trapping and the Random Encounter Model
-- 
+
 ### 📚🧠 I'm currently learning
 
 - Tidyverse R-Package
