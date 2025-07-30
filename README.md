@@ -23,4 +23,4 @@
 - Practical camera trapping
 - Modeling wildlife populations with tidymodels
 - Bayesian Statistics
-  - especially applied to Game Ecology/Magagement, resp. Hunting-Strategies
+  - especially applied to Game Ecology/Management, resp. Hunting-Strategies
