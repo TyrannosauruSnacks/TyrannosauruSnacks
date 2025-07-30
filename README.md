@@ -7,7 +7,7 @@
 ### 📚🧠 I'm currently learning
 
 - Data Science
-  - Bayesian Statistics
+- Bayesian Statistics
 - Tidyverse R-Package
 - Tidy Modeling with R
 - CamtrapR package for exploration and analysis of Camera Trap Data
