@@ -6,6 +6,8 @@
 
 ### 📚🧠 I'm currently learning
 
+- Data Science
+  - Bayesian Statistics
 - Tidyverse R-Package
 - Tidy Modeling with R
 - CamtrapR package for exploration and analysis of Camera Trap Data
@@ -14,8 +16,7 @@
   - secretly transitioning to Emacs though
 - Camera Trapping Methods
 - Wildilfe Management
-- Data Science
-  - slowly a- or descending towards Bayesian Statistics
+
 
 ### 🤔💡 I'm looking for help with
 
