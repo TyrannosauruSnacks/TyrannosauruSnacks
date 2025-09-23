@@ -2,25 +2,25 @@
 
 ### 🏠👨‍💻 I'm currently working on
 
-- Bachelor Thesis - Reproduction of an estimated Red Deer Density in a german forest by Camera trapping and the Random Encounter Model
+- Bachelor thesis - Reproduction of an estimated Red Deer density in a german forest by camera trapping and the Random Encounter Model
 
 ### 📚🧠 I'm currently learning
 
-- Data Science
-- Bayesian Statistics
+- Data science
+- Bayesian statistics
 - Tidyverse R-Package
 - Tidy Modeling with R
-- CamtrapR package for exploration and analysis of Camera Trap Data
-- GitHub
+- CamtrapR package for exploration and analysis of camera trap data
+- Github
 - Obsidian
-  - secretly transitioning to Emacs though
-- Camera Trapping Methods
-- Wildilfe Management
+  - secretly transitioning to emacs though
+- Camera trapping methods
+- Wildilfe management
 
 
 ### 🤔💡 I'm looking for help with
 
 - Practical camera trapping
 - Modeling wildlife populations with tidymodels
-- Bayesian Statistics
-  - especially applied to Game Ecology/Management, resp. Hunting-Strategies
+- Bayesian statistics
+  - especially applied to game ecology and management, resp. hunting strategies
