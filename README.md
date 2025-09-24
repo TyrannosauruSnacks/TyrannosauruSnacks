@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-### 🏠👨‍💻 I'm currently working on
+### I'm currently:
+
+#### 🏠👨‍💻 working on
 
 - Bachelor thesis - Reproduction of an estimated Red Deer density in a german forest by camera trapping and the Random Encounter Model
 
-### 📚🧠 I'm currently learning
+#### 📚🧠 learning
 
 - Data science
 - Bayesian statistics
@@ -18,7 +20,7 @@
 - Wildilfe management
 
 
-### 🤔💡 I'm looking for help with
+#### 🤔💡 looking for help with
 
 - Practical camera trapping
 - Modeling wildlife populations with tidymodels
