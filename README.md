@@ -3,11 +3,9 @@
 ### I'm currently:
 
 #### 🏠👨‍💻 Working on
-
--  Making it through the master's programme
+-  Making it through the master's program
 
 #### 📚🧠 Learning
-
 ##### Scientific Writing
 - English prose and style
 - Typst
@@ -18,17 +16,22 @@
 - CamtrapR
 - Bayesian statistics
 
+##### Data Science with Python, some
+- NumPy
+- Pandas
+
 ##### Tools of the Trade
 - Git
+- Positron
 - Emacs
-  - secretly still using Obsidian and Rstudio, though.
+  - Secretly still using Obsidian, though.
+- Nix/NixOS
 
-##### Wildilfe management
+##### Wildlife/Game Management
 - Camera trapping methods
 - Passive acoustic monitoring of wildlife
 
-#### 🤔💡 Looking for help with
-
+#### 🤔💡 Looking for Help with
 - Modelling wildlife populations statistically
 - Bayesian statistics
-  - especially applied to game ecology and management, resp. hunting strategies
+  - Especially applied to game ecology and management, resp. hunting strategies
